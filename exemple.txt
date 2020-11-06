@@ -1,5 +1,5 @@
-Nom : SEGALEN
-Prenom : Thomas
-Age : 19
-Etude : Switch IT B1
-Jeu video préféré : Oof trop compliqué
+Nom : 
+Prenom : 
+Age : 
+Etude : 
+Jeu video préféré : 
