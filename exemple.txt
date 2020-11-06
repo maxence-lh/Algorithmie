@@ -1,5 +1,5 @@
-﻿Nom :
+Nom :
 Prenom :
-Age : 
-Etude : 
-Jeu video préféré : 
+Age :
+Etude :
+Jeu video préféré :
