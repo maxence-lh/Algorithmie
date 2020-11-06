@@ -3,9 +3,3 @@ Prenom :
 Age : 
 Etude : 
 Jeu video préféré : 
-
-Pithon
-Mathieu
-21 ans
-bac puis prépa
-Hollow Knight
