@@ -1,5 +1,5 @@
 Nom : Lhuillier
 Prenom : Maxence
 Age : 18
-Etude : B1 Switch-IT
+Etude : Switch-IT B1 
 Jeu video préféré : Unreal Tournament
